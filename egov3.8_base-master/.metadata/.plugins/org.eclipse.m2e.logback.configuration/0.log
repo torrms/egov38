@@ -1,0 +1,441 @@
+2019-08-08 11:31:30,658 [Worker-0] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2019-08-08 11:32:31,689 [Worker-5] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: egovframework:common:3.7.0 @ D:\02.WORK\egov3.7_base-master\pom.xml.
+2019-08-08 11:32:31,689 [Worker-11] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: egovframework:common:3.7.0 @ D:\02.WORK\egov3.7_base-master\pom.xml.
+2019-08-08 11:32:34,270 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://nexus.ecis.co.kr/repository/ecis-releases/kr/co/ecis/ojdbc6/1.0.0.1/ojdbc6-1.0.0.1.pom
+2019-08-08 11:32:34,291 [Worker-11] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://nexus.ecis.co.kr/repository/ecis-releases/kr/co/ecis/ojdbc6/1.0.0.1/ojdbc6-1.0.0.1.pom
+2019-08-08 11:32:34,700 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo1.maven.org/maven2/kr/co/ecis/ojdbc6/1.0.0.1/ojdbc6-1.0.0.1.pom
+2019-08-08 11:32:34,703 [Worker-11] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo1.maven.org/maven2/kr/co/ecis/ojdbc6/1.0.0.1/ojdbc6-1.0.0.1.pom
+2019-08-08 11:32:34,901 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.egovframe.kr:8080/maven/kr/co/ecis/ojdbc6/1.0.0.1/ojdbc6-1.0.0.1.pom
+2019-08-08 11:32:34,903 [Worker-11] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.egovframe.kr:8080/maven/kr/co/ecis/ojdbc6/1.0.0.1/ojdbc6-1.0.0.1.pom
+2019-08-08 11:32:35,703 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/kr/co/ecis/ojdbc6/1.0.0.1/ojdbc6-1.0.0.1.pom
+2019-08-08 11:32:35,733 [Worker-11] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/kr/co/ecis/ojdbc6/1.0.0.1/ojdbc6-1.0.0.1.pom
+2019-08-08 11:32:44,396 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-08 11:32:44,420 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 481 resources
+2019-08-08 11:32:46,734 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-08 11:32:46,740 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\02.WORK\egov3.7_base-master\src\test\resources
+2019-08-08 11:32:48,080 [Worker-0] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: egovframework:common:3.7.0 @ D:\02.WORK\egov3.7_base-master\pom.xml.
+2019-08-08 11:32:48,973 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://nexus.ecis.co.kr/repository/ecis-releases/kr/co/ecis/ojdbc6/1.0.0.1/ojdbc6-1.0.0.1.jar
+2019-08-08 11:32:49,323 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo1.maven.org/maven2/kr/co/ecis/ojdbc6/1.0.0.1/ojdbc6-1.0.0.1.jar
+2019-08-08 11:32:49,372 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.egovframe.kr:8080/maven/kr/co/ecis/ojdbc6/1.0.0.1/ojdbc6-1.0.0.1.jar
+2019-08-08 11:32:50,004 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/kr/co/ecis/ojdbc6/1.0.0.1/ojdbc6-1.0.0.1.jar
+2019-08-08 11:36:48,715 [Worker-16] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: egovframework:common:3.8.0 @ D:\02.WORK\egov3.7_base-master\pom.xml.
+2019-08-08 11:36:49,665 [Worker-16] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-08 11:36:49,672 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-08-08 11:36:49,674 [Worker-16] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-08 11:36:49,680 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\02.WORK\egov3.7_base-master\src\test\resources
+2019-08-08 11:36:49,681 [Worker-16] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of egov3.7_base
+2019-08-08 11:36:49,682 [Worker-16] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for egov3.7_base
+2019-08-08 11:36:49,713 [Worker-16] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-08 11:37:50,192 [Worker-19] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: egovframework:common:3.8.0 @ D:\02.WORK\egov3.7_base-master\pom.xml.
+2019-08-08 11:37:51,599 [Worker-19] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-08 11:37:51,605 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-08-08 11:37:51,606 [Worker-19] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-08 11:37:51,612 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\02.WORK\egov3.7_base-master\src\test\resources
+2019-08-08 11:37:51,612 [Worker-19] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of egov3.7_base
+2019-08-08 11:37:51,612 [Worker-19] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for egov3.7_base
+2019-08-08 11:37:51,614 [Worker-19] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-08 11:37:53,176 [Worker-21] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-08 11:37:53,185 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-08-08 11:37:53,186 [Worker-21] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-08 11:37:53,202 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\02.WORK\egov3.7_base-master\src\test\resources
+2019-08-08 11:38:05,399 [Worker-20] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2019-08-08 11:38:05,746 [Worker-20] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: egovframework:common:3.8.0 @ D:\02.WORK\egov3.7_base-master\pom.xml.
+2019-08-08 11:38:06,375 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://nexus.ecis.co.kr/repository/ecis-releases/kr/co/ecis/ojdbc6/1.0.0.1/ojdbc6-1.0.0.1.pom
+2019-08-08 11:38:06,736 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo1.maven.org/maven2/kr/co/ecis/ojdbc6/1.0.0.1/ojdbc6-1.0.0.1.pom
+2019-08-08 11:38:06,766 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.egovframe.kr:8080/maven/kr/co/ecis/ojdbc6/1.0.0.1/ojdbc6-1.0.0.1.pom
+2019-08-08 11:38:07,621 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/kr/co/ecis/ojdbc6/1.0.0.1/ojdbc6-1.0.0.1.pom
+2019-08-08 11:38:08,173 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://nexus.ecis.co.kr/repository/ecis-releases/kr/co/ecis/ojdbc6/1.0.0.1/ojdbc6-1.0.0.1.jar
+2019-08-08 11:38:08,318 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo1.maven.org/maven2/kr/co/ecis/ojdbc6/1.0.0.1/ojdbc6-1.0.0.1.jar
+2019-08-08 11:38:08,334 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.egovframe.kr:8080/maven/kr/co/ecis/ojdbc6/1.0.0.1/ojdbc6-1.0.0.1.jar
+2019-08-08 11:38:08,547 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/kr/co/ecis/ojdbc6/1.0.0.1/ojdbc6-1.0.0.1.jar
+2019-08-08 11:38:08,820 [Worker-20] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /egov3.7_base/src/main/java
+2019-08-08 11:38:08,821 [Worker-20] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /egov3.7_base/src/main/resources
+2019-08-08 11:38:08,824 [Worker-20] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /egov3.7_base/src/test/java
+2019-08-08 11:38:11,304 [Worker-20] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for egov3.7_base
+2019-08-08 11:38:11,310 [Worker-20] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 5 sec
+2019-08-08 11:38:12,000 [Worker-20] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-08 11:38:12,010 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 481 resources
+2019-08-08 11:38:13,559 [Worker-20] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-08 11:38:13,565 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\02.WORK\egov3.7_base-master\src\test\resources
+2019-08-08 11:38:13,565 [Worker-20] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of egov3.7_base
+2019-08-08 11:38:13,565 [Worker-20] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for egov3.7_base
+2019-08-08 11:38:13,567 [Worker-20] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-08 11:39:03,649 [Worker-16] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: egovframework:common:3.8.0 @ D:\02.WORK\egov3.7_base-master\pom.xml.
+2019-08-08 11:39:04,657 [Worker-16] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-08 11:39:04,664 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-08-08 11:39:04,665 [Worker-16] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-08 11:39:04,671 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\02.WORK\egov3.7_base-master\src\test\resources
+2019-08-08 11:39:04,671 [Worker-16] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of egov3.7_base
+2019-08-08 11:39:04,671 [Worker-16] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for egov3.7_base
+2019-08-08 11:39:04,673 [Worker-16] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-08 11:39:06,316 [Worker-19] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-08 11:39:06,322 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-08-08 11:39:06,324 [Worker-19] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-08 11:39:06,328 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\02.WORK\egov3.7_base-master\src\test\resources
+2019-08-08 11:40:13,015 [Worker-23] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: egovframework:common:3.8.0 @ D:\02.WORK\egov3.7_base-master\pom.xml.
+2019-08-08 11:40:13,979 [Worker-23] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-08 11:40:13,984 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-08-08 11:40:13,985 [Worker-23] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-08 11:40:13,989 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\02.WORK\egov3.7_base-master\src\test\resources
+2019-08-08 11:40:13,990 [Worker-23] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of egov3.7_base
+2019-08-08 11:40:13,990 [Worker-23] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for egov3.7_base
+2019-08-08 11:40:13,992 [Worker-23] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-08 11:40:17,718 [Worker-22] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-08 11:40:17,746 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 481 resources
+2019-08-08 11:40:19,091 [Worker-22] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-08 11:40:19,095 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\02.WORK\egov3.7_base-master\src\test\resources
+2019-08-08 11:40:20,450 [Worker-19] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: egovframework:common:3.8.0 @ D:\02.WORK\egov3.7_base-master\pom.xml.
+2019-08-08 11:40:21,514 [Worker-19] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-08 11:40:21,519 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-08-08 11:40:21,520 [Worker-19] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-08 11:40:21,525 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\02.WORK\egov3.7_base-master\src\test\resources
+2019-08-08 11:40:21,525 [Worker-19] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of egov3.7_base
+2019-08-08 11:40:21,525 [Worker-19] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for egov3.7_base
+2019-08-08 11:40:21,527 [Worker-19] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-08 11:40:37,537 [Worker-26] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: egovframework:common:3.8.0 @ D:\02.WORK\egov3.7_base-master\pom.xml.
+2019-08-08 11:40:38,427 [Worker-26] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-08 11:40:38,432 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-08-08 11:40:38,433 [Worker-26] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-08 11:40:38,448 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\02.WORK\egov3.7_base-master\src\test\resources
+2019-08-08 11:40:38,448 [Worker-26] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of egov3.7_base
+2019-08-08 11:40:38,448 [Worker-26] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for egov3.7_base
+2019-08-08 11:40:38,450 [Worker-26] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-08 11:40:41,167 [Worker-24] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-08 11:40:41,192 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 481 resources
+2019-08-08 11:40:42,881 [Worker-24] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-08 11:40:42,886 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\02.WORK\egov3.7_base-master\src\test\resources
+2019-08-08 11:41:18,851 [Worker-22] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: egovframework:common:3.8.0 @ D:\02.WORK\egov3.7_base-master\pom.xml.
+2019-08-08 11:41:19,801 [Worker-22] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-08 11:41:19,807 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-08-08 11:41:19,808 [Worker-22] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-08 11:41:19,813 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\02.WORK\egov3.7_base-master\src\test\resources
+2019-08-08 11:41:19,813 [Worker-22] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of egov3.7_base
+2019-08-08 11:41:19,813 [Worker-22] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for egov3.7_base
+2019-08-08 11:41:19,816 [Worker-22] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-08 11:41:22,381 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-08 11:41:22,406 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 481 resources
+2019-08-08 11:41:23,676 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-08 11:41:23,681 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\02.WORK\egov3.7_base-master\src\test\resources
+2019-08-08 11:41:47,024 [Worker-16] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-08 11:41:47,030 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-08-08 11:41:47,031 [Worker-16] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-08 11:41:47,036 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\02.WORK\egov3.7_base-master\src\test\resources
+2019-08-08 11:42:04,787 [Worker-20] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-08 11:42:04,792 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-08-08 11:42:04,794 [Worker-20] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-08 11:42:04,800 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\02.WORK\egov3.7_base-master\src\test\resources
+2019-08-08 11:42:12,799 [Worker-24] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-08 11:42:12,804 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-08-08 11:42:12,806 [Worker-24] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-08 11:42:12,810 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\02.WORK\egov3.7_base-master\src\test\resources
+2019-08-08 11:44:28,419 [Worker-22] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-08 11:44:28,423 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-08-08 11:44:28,427 [Worker-22] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-08 11:44:28,432 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\02.WORK\egov3.7_base-master\src\test\resources
+2019-08-08 13:25:02,945 [Worker-22] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-08 13:25:02,950 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-08-08 13:25:02,954 [Worker-22] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-08 13:25:02,958 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\02.WORK\egov3.7_base-master\src\test\resources
+2019-08-08 13:25:29,521 [Worker-36] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-08 13:25:29,527 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-08-08 13:25:29,531 [Worker-36] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-08 13:25:29,536 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\02.WORK\egov3.7_base-master\src\test\resources
+2019-08-08 13:25:43,144 [Worker-36] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-08 13:25:43,149 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-08-08 13:25:43,154 [Worker-36] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-08 13:25:43,158 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\02.WORK\egov3.7_base-master\src\test\resources
+2019-08-08 13:25:50,779 [Worker-32] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-08 13:25:50,784 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-08-08 13:25:50,788 [Worker-32] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-08 13:25:50,792 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\02.WORK\egov3.7_base-master\src\test\resources
+2019-08-08 13:25:54,140 [Worker-37] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-08 13:25:54,145 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-08-08 13:25:54,151 [Worker-37] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-08 13:25:54,156 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\02.WORK\egov3.7_base-master\src\test\resources
+2019-08-08 13:26:56,940 [Worker-36] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-08 13:26:56,944 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-08-08 13:26:56,949 [Worker-36] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-08 13:26:56,953 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\02.WORK\egov3.7_base-master\src\test\resources
+2019-08-08 13:28:55,268 [Worker-37] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-08 13:28:55,273 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-08-08 13:28:55,276 [Worker-37] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-08 13:28:55,280 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\02.WORK\egov3.7_base-master\src\test\resources
+2019-08-08 13:30:38,611 [Worker-35] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-08 13:30:38,616 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-08-08 13:30:38,619 [Worker-35] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-08 13:30:38,623 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\02.WORK\egov3.7_base-master\src\test\resources
+2019-08-08 13:31:01,352 [Worker-36] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-08 13:31:01,357 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-08-08 13:31:01,360 [Worker-36] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-08 13:31:01,364 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\02.WORK\egov3.7_base-master\src\test\resources
+2019-08-08 13:32:14,010 [Worker-35] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-08 13:32:14,014 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-08-08 13:32:14,019 [Worker-35] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-08 13:32:14,023 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\02.WORK\egov3.7_base-master\src\test\resources
+2019-08-08 13:33:50,901 [Worker-31] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-08 13:33:50,906 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-08-08 13:33:50,911 [Worker-31] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-08 13:33:50,915 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\02.WORK\egov3.7_base-master\src\test\resources
+2019-08-08 13:34:37,811 [Worker-32] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-08 13:34:37,816 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-08-08 13:34:37,817 [Worker-32] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-08 13:34:37,821 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\02.WORK\egov3.7_base-master\src\test\resources
+2019-08-08 13:34:41,896 [Worker-37] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-08 13:34:41,900 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-08-08 13:34:41,901 [Worker-37] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-08 13:34:41,905 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\02.WORK\egov3.7_base-master\src\test\resources
+2019-08-08 13:34:45,652 [Worker-37] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-08 13:34:45,656 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-08-08 13:34:45,657 [Worker-37] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-08 13:34:45,661 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\02.WORK\egov3.7_base-master\src\test\resources
+2019-08-08 13:34:50,475 [Worker-37] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-08 13:34:50,481 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-08-08 13:34:50,481 [Worker-37] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-08 13:34:50,486 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\02.WORK\egov3.7_base-master\src\test\resources
+2019-08-08 13:34:52,683 [Worker-32] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-08 13:34:52,687 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-08-08 13:34:52,688 [Worker-32] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-08 13:34:52,692 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\02.WORK\egov3.7_base-master\src\test\resources
+2019-08-08 13:34:56,548 [Worker-31] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-08 13:34:56,552 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-08-08 13:34:56,553 [Worker-31] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-08 13:34:56,557 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\02.WORK\egov3.7_base-master\src\test\resources
+2019-08-08 13:34:58,953 [Worker-37] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-08 13:34:58,958 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-08-08 13:34:58,959 [Worker-37] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-08 13:34:58,963 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\02.WORK\egov3.7_base-master\src\test\resources
+2019-08-08 13:35:02,169 [Worker-32] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-08 13:35:02,173 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-08-08 13:35:02,174 [Worker-32] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-08 13:35:02,178 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\02.WORK\egov3.7_base-master\src\test\resources
+2019-08-08 13:35:04,334 [Worker-31] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-08 13:35:04,339 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-08-08 13:35:04,340 [Worker-31] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-08 13:35:04,344 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\02.WORK\egov3.7_base-master\src\test\resources
+2019-08-08 13:35:07,082 [Worker-31] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-08 13:35:07,091 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-08-08 13:35:07,092 [Worker-31] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-08 13:35:07,096 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\02.WORK\egov3.7_base-master\src\test\resources
+2019-08-08 13:35:09,394 [Worker-35] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-08 13:35:09,398 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-08-08 13:35:09,399 [Worker-35] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-08 13:35:09,403 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\02.WORK\egov3.7_base-master\src\test\resources
+2019-08-08 13:35:11,796 [Worker-36] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-08 13:35:11,800 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-08-08 13:35:11,801 [Worker-36] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-08 13:35:11,805 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\02.WORK\egov3.7_base-master\src\test\resources
+2019-08-08 13:35:13,402 [Worker-38] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-08 13:35:13,409 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-08-08 13:35:13,410 [Worker-38] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-08 13:35:13,414 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\02.WORK\egov3.7_base-master\src\test\resources
+2019-08-08 13:43:57,435 [Worker-31] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-08 13:43:57,440 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-08-08 13:43:57,442 [Worker-31] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-08 13:43:57,444 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\02.WORK\egov3.7_base-master\src\test\resources
+2019-08-08 13:44:37,891 [Worker-36] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-08 13:44:37,896 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-08-08 13:44:37,898 [Worker-36] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-08 13:44:37,902 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\02.WORK\egov3.7_base-master\src\test\resources
+2019-08-08 13:44:44,810 [Worker-39] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-08 13:44:44,816 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-08-08 13:44:44,817 [Worker-39] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-08 13:44:44,821 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\02.WORK\egov3.7_base-master\src\test\resources
+2019-08-08 13:45:53,941 [Worker-36] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-08 13:45:53,946 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-08-08 13:45:53,948 [Worker-36] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-08 13:45:53,952 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\02.WORK\egov3.7_base-master\src\test\resources
+2019-08-08 13:45:58,033 [Worker-40] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-08 13:45:58,038 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-08-08 13:45:58,038 [Worker-40] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-08 13:45:58,043 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\02.WORK\egov3.7_base-master\src\test\resources
+2019-08-08 13:46:30,097 [Worker-31] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-08 13:46:30,103 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-08-08 13:46:30,104 [Worker-31] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-08 13:46:30,108 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\02.WORK\egov3.7_base-master\src\test\resources
+2019-08-08 13:46:34,953 [Worker-40] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-08 13:46:34,957 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-08-08 13:46:34,958 [Worker-40] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-08 13:46:34,962 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\02.WORK\egov3.7_base-master\src\test\resources
+2019-08-08 13:47:11,550 [Worker-40] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-08 13:47:11,555 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-08-08 13:47:11,557 [Worker-40] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-08 13:47:11,560 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\02.WORK\egov3.7_base-master\src\test\resources
+2019-08-08 13:47:15,858 [Worker-38] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-08 13:47:15,862 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-08-08 13:47:15,863 [Worker-38] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-08 13:47:15,867 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\02.WORK\egov3.7_base-master\src\test\resources
+2019-08-08 13:47:59,030 [Worker-39] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-08 13:47:59,034 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-08-08 13:47:59,036 [Worker-39] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-08 13:47:59,039 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\02.WORK\egov3.7_base-master\src\test\resources
+2019-08-08 13:48:01,505 [Worker-31] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-08 13:48:01,509 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-08-08 13:48:01,509 [Worker-31] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-08 13:48:01,513 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\02.WORK\egov3.7_base-master\src\test\resources
+2019-08-08 13:48:33,666 [Worker-40] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-08 13:48:33,670 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-08-08 13:48:33,672 [Worker-40] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-08 13:48:33,676 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\02.WORK\egov3.7_base-master\src\test\resources
+2019-08-08 13:48:39,600 [Worker-31] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-08 13:48:39,604 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-08-08 13:48:39,605 [Worker-31] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-08 13:48:39,609 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\02.WORK\egov3.7_base-master\src\test\resources
+2019-08-08 13:49:08,468 [Worker-41] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-08 13:49:08,473 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-08-08 13:49:08,475 [Worker-41] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-08 13:49:08,479 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\02.WORK\egov3.7_base-master\src\test\resources
+2019-08-08 13:49:14,430 [Worker-36] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-08 13:49:14,434 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-08-08 13:49:14,435 [Worker-36] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-08 13:49:14,440 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\02.WORK\egov3.7_base-master\src\test\resources
+2019-08-08 13:51:18,707 [Worker-41] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-08 13:51:18,711 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-08-08 13:51:18,712 [Worker-41] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-08 13:51:18,716 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\02.WORK\egov3.7_base-master\src\test\resources
+2019-08-08 14:08:21,411 [Worker-40] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-08 14:08:21,416 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-08-08 14:08:21,417 [Worker-40] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-08 14:08:21,421 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\02.WORK\egov3.7_base-master\src\test\resources
+2019-08-08 14:26:28,751 [Worker-44] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-08 14:26:28,755 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-08-08 14:26:28,757 [Worker-44] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-08 14:26:28,761 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\02.WORK\egov3.7_base-master\src\test\resources
+2019-08-08 14:33:26,026 [Worker-58] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: egovframework:common:3.8.0 @ D:\02.WORK\egov3.7_base-master\pom.xml.
+2019-08-08 14:33:28,037 [Worker-58] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo1.maven.org/maven2/com/fasterxml/jackson/core/jackson-core/2.9.9/jackson-core-2.9.9.pom
+2019-08-08 14:33:28,192 [Worker-58] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo1.maven.org/maven2/com/fasterxml/jackson/core/jackson-core/2.9.9/jackson-core-2.9.9.pom
+2019-08-08 14:33:28,348 [Worker-58] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo1.maven.org/maven2/com/fasterxml/jackson/jackson-base/2.9.9/jackson-base-2.9.9.pom
+2019-08-08 14:33:28,500 [Worker-58] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo1.maven.org/maven2/com/fasterxml/jackson/jackson-base/2.9.9/jackson-base-2.9.9.pom
+2019-08-08 14:33:28,641 [Worker-58] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo1.maven.org/maven2/com/fasterxml/jackson/jackson-bom/2.9.9/jackson-bom-2.9.9.pom
+2019-08-08 14:33:28,797 [Worker-58] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo1.maven.org/maven2/com/fasterxml/jackson/jackson-bom/2.9.9/jackson-bom-2.9.9.pom
+2019-08-08 14:33:28,939 [Worker-58] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo1.maven.org/maven2/com/fasterxml/jackson/jackson-parent/2.9.1.2/jackson-parent-2.9.1.2.pom
+2019-08-08 14:33:29,097 [Worker-58] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo1.maven.org/maven2/com/fasterxml/jackson/jackson-parent/2.9.1.2/jackson-parent-2.9.1.2.pom
+2019-08-08 14:33:29,242 [Worker-58] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo1.maven.org/maven2/com/fasterxml/oss-parent/34/oss-parent-34.pom
+2019-08-08 14:33:29,758 [Worker-58] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo1.maven.org/maven2/com/fasterxml/oss-parent/34/oss-parent-34.pom
+2019-08-08 14:33:30,033 [Worker-58] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo1.maven.org/maven2/com/fasterxml/jackson/core/jackson-core/2.9.9/jackson-core-2.9.9.jar
+2019-08-08 14:33:31,523 [Worker-58] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo1.maven.org/maven2/com/fasterxml/jackson/core/jackson-core/2.9.9/jackson-core-2.9.9.jar
+2019-08-08 14:33:33,508 [Worker-58] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-08 14:33:33,514 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-08-08 14:33:33,514 [Worker-58] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-08 14:33:33,518 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\02.WORK\egov3.7_base-master\src\test\resources
+2019-08-08 14:33:33,518 [Worker-58] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of egov3.7_base
+2019-08-08 14:33:33,518 [Worker-58] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for egov3.7_base
+2019-08-08 14:33:33,520 [Worker-58] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-08 14:33:36,422 [Worker-55] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-08 14:33:36,446 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 451 resources
+2019-08-08 14:33:37,921 [Worker-55] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-08 14:33:37,925 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\02.WORK\egov3.7_base-master\src\test\resources
+2019-08-08 14:38:03,834 [Worker-44] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: egovframework:common:3.8.0 @ D:\02.WORK\egov3.8_base-master\egov3.7_base\pom.xml.
+2019-08-08 14:38:04,940 [Worker-44] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-08 14:38:04,947 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 451 resources
+2019-08-08 14:38:06,032 [Worker-44] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-08 14:38:06,037 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\02.WORK\egov3.8_base-master\egov3.7_base\src\test\resources
+2019-08-08 14:39:45,168 [Worker-60] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-08 14:39:45,193 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 451 resources
+2019-08-08 14:39:46,239 [Worker-60] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-08 14:39:46,243 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\02.WORK\egov3.8_base-master\egov3.7_base\src\test\resources
+2019-08-08 14:40:23,025 [Worker-58] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2019-08-08 14:40:23,360 [Worker-58] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: egovframework:common:3.8.0 @ D:\02.WORK\egov3.8_base-master\egov3.7_base\pom.xml.
+2019-08-08 14:40:24,326 [Worker-58] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /egov3.7_base/src/main/java
+2019-08-08 14:40:24,326 [Worker-58] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /egov3.7_base/src/main/resources
+2019-08-08 14:40:24,329 [Worker-58] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /egov3.7_base/src/test/java
+2019-08-08 14:40:25,119 [Worker-58] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for egov3.7_base
+2019-08-08 14:40:25,124 [Worker-58] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 2 sec
+2019-08-08 14:40:26,473 [Worker-44] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-08 14:40:26,480 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 451 resources
+2019-08-08 14:40:27,607 [Worker-44] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-08 14:40:27,612 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\02.WORK\egov3.8_base-master\egov3.7_base\src\test\resources
+2019-08-08 14:40:27,612 [Worker-44] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of egov3.7_base
+2019-08-08 14:40:27,612 [Worker-44] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for egov3.7_base
+2019-08-08 14:40:27,614 [Worker-44] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-08 14:41:50,857 [Worker-58] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-08 14:41:50,880 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 451 resources
+2019-08-08 14:41:50,903 [Worker-58] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-08 14:41:50,907 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\02.WORK\egov3.8_base-master\egov3.7_base\src\test\resources
+2019-08-08 14:42:01,474 [Worker-58] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-08 14:42:01,496 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 451 resources
+2019-08-08 14:42:01,518 [Worker-58] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-08 14:42:01,522 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\02.WORK\egov3.8_base-master\egov3.7_base\src\test\resources
+2019-08-08 14:42:07,484 [Worker-58] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-08 14:42:07,507 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 451 resources
+2019-08-08 14:42:07,528 [Worker-58] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-08 14:42:07,533 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\02.WORK\egov3.8_base-master\egov3.7_base\src\test\resources
+2019-08-08 14:42:13,008 [Worker-61] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-08 14:42:13,031 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 451 resources
+2019-08-08 14:42:13,053 [Worker-61] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-08 14:42:13,057 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\02.WORK\egov3.8_base-master\egov3.7_base\src\test\resources
+2019-08-08 14:42:17,404 [Worker-65] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-08 14:42:17,427 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 451 resources
+2019-08-08 14:42:17,448 [Worker-65] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-08 14:42:17,452 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\02.WORK\egov3.8_base-master\egov3.7_base\src\test\resources
+2019-08-08 14:42:21,740 [Worker-65] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-08 14:42:21,762 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 451 resources
+2019-08-08 14:42:21,783 [Worker-65] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-08 14:42:21,787 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\02.WORK\egov3.8_base-master\egov3.7_base\src\test\resources
+2019-08-08 14:42:25,243 [Worker-65] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-08 14:42:25,266 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 451 resources
+2019-08-08 14:42:25,287 [Worker-65] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-08 14:42:25,291 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\02.WORK\egov3.8_base-master\egov3.7_base\src\test\resources
+2019-08-08 14:42:29,236 [Worker-64] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-08 14:42:29,257 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 451 resources
+2019-08-08 14:42:29,279 [Worker-64] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-08 14:42:29,283 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\02.WORK\egov3.8_base-master\egov3.7_base\src\test\resources
+2019-08-08 14:42:33,035 [Worker-61] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-08 14:42:33,057 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 451 resources
+2019-08-08 14:42:33,079 [Worker-61] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-08 14:42:33,083 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\02.WORK\egov3.8_base-master\egov3.7_base\src\test\resources
+2019-08-08 14:42:36,255 [Worker-57] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-08 14:42:36,277 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 451 resources
+2019-08-08 14:42:36,299 [Worker-57] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-08 14:42:36,303 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\02.WORK\egov3.8_base-master\egov3.7_base\src\test\resources
+2019-08-08 14:42:43,253 [Worker-44] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-08 14:42:43,274 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 451 resources
+2019-08-08 14:42:43,296 [Worker-44] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-08 14:42:43,300 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\02.WORK\egov3.8_base-master\egov3.7_base\src\test\resources
+2019-08-08 14:42:54,564 [Worker-60] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-08 14:42:54,586 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 451 resources
+2019-08-08 14:42:54,607 [Worker-60] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-08 14:42:54,611 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\02.WORK\egov3.8_base-master\egov3.7_base\src\test\resources
+2019-08-08 14:43:03,282 [Worker-58] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-08 14:43:03,304 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 451 resources
+2019-08-08 14:43:03,326 [Worker-58] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-08 14:43:03,330 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\02.WORK\egov3.8_base-master\egov3.7_base\src\test\resources
+2019-08-08 14:43:31,635 [Worker-44] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-08 14:43:31,658 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 451 resources
+2019-08-08 14:43:31,680 [Worker-44] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-08 14:43:31,685 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\02.WORK\egov3.8_base-master\egov3.7_base\src\test\resources
+2019-08-08 14:43:42,751 [Worker-60] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-08 14:43:42,774 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 451 resources
+2019-08-08 14:43:42,796 [Worker-60] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-08 14:43:42,800 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\02.WORK\egov3.8_base-master\egov3.7_base\src\test\resources
+2019-08-08 14:45:13,678 [Worker-62] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-08 14:45:13,682 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-08-08 14:45:13,683 [Worker-62] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-08 14:45:13,687 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\02.WORK\egov3.8_base-master\egov3.7_base\src\test\resources
+2019-08-08 14:49:02,477 [Worker-1] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2019-08-08 14:50:20,136 [Worker-6] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: egovframework:common:3.8.0 @ D:\02.WORK\egov3.8_base-master\egov3.8_base\pom.xml.
+2019-08-08 14:50:25,672 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-08 14:50:25,686 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 451 resources
+2019-08-08 14:50:28,179 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-08 14:50:28,185 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\02.WORK\egov3.8_base-master\egov3.8_base\src\test\resources
+2019-08-08 14:55:05,761 [Worker-24] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: egovframework:common:3.8.0 @ D:\02.WORK\egov3.8_base-master\egov3.8_base\pom.xml.
+2019-08-08 14:55:07,010 [Worker-24] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-08 14:55:07,015 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-08-08 14:55:07,016 [Worker-24] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-08 14:55:07,021 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\02.WORK\egov3.8_base-master\egov3.8_base\src\test\resources
+2019-08-08 14:55:07,021 [Worker-24] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of egov3.8_base
+2019-08-08 14:55:07,022 [Worker-24] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for egov3.8_base
+2019-08-08 14:55:07,025 [Worker-24] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-08 14:56:29,492 [Worker-7] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2019-08-08 14:56:29,881 [Worker-7] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: egovframework:common:3.8.0 @ D:\02.WORK\egov3.8_base-master\egov3.8_base\pom.xml.
+2019-08-08 14:56:31,018 [Worker-7] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /egov3.8_base/src/main/java
+2019-08-08 14:56:31,018 [Worker-7] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /egov3.8_base/src/main/resources
+2019-08-08 14:56:31,021 [Worker-7] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /egov3.8_base/src/test/java
+2019-08-08 14:56:31,779 [Worker-7] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for egov3.8_base
+2019-08-08 14:56:31,785 [Worker-7] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 2 sec
+2019-08-08 14:56:33,457 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-08 14:56:33,465 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 451 resources
+2019-08-08 14:56:34,667 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-08 14:56:34,671 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\02.WORK\egov3.8_base-master\egov3.8_base\src\test\resources
+2019-08-08 14:56:34,671 [Worker-12] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of egov3.8_base
+2019-08-08 14:56:34,672 [Worker-12] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for egov3.8_base
+2019-08-08 14:56:34,674 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
