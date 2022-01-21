@@ -129,7 +129,7 @@
 		<dependency>
 			<groupId>com.h2database</groupId>
 			<artifactId>h2</artifactId>
-			<version>1.4.181</version>
+			<version>2.1.210</version>
 		</dependency>
 
 		<dependency>
@@ -393,7 +393,7 @@
 		<dependency>
 			<groupId>com.h2database</groupId>
 			<artifactId>h2</artifactId>
-			<version>1.4.180</version>
+			<version>2.1.210</version>
 		</dependency>
 
 		<!-- facebook 연동시 추가 -->
